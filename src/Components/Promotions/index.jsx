@@ -5,8 +5,9 @@ import {Slide} from "@mui/material"
 
 const messages=[
     "20% off on your first order!",
-  "Summer sale starts now, visit any store.",
-  "Please like and subscribe :)",
+  "X-mass sale starts now, checkout any store and product.",
+  "Stay toned for the PZL community",
+  "It's a platform for everyone, whether a biggener or an expert!",
 ]
 
 export default function Promotions(){

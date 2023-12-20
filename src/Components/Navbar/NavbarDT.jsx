@@ -28,10 +28,11 @@ export default function NavbarDT({matches})  {
       <NavbarHeader variant="h4">PZL</NavbarHeader>
       <MyList type="row">
         <ListItemText primary="Home" />
-        <ListItemText primary="Categories" />
+        <ListItemText primary="Categories"/>
         <ListItemText primary="Products" />
         <ListItemText primary="About us" />
-        <ListItemText primary="Contact us" />
+        <ListItemText primary="Community"/>
+        
         <ListItemButton>
           <ListItemIcon>
             <SearchIcon onClick={()=>setShowSearchBox(true)}/>
