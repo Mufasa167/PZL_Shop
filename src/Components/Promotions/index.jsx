@@ -6,7 +6,7 @@ import {Slide} from "@mui/material"
 const messages=[
     "20% off on your first order!",
   "X-mass sale starts now, checkout any store and product.",
-  "Stay toned for the PZL community",
+  "Stay tuned for the PZL community",
   "It's a platform for everyone, whether a biggener or an expert!",
 ]
 
