@@ -28,7 +28,8 @@ export default function Footer(){
              <Grid item md={6} lg={4}>
                 <FooterTitle variant="body1">About the PZL</FooterTitle>
                 <Typography variant="caption2">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi porro perferendis expedita debitis et nisi.
+                    The aim of the PZL platform is to allow for creative people to engage support and sell/buy products that catch the eye.
+                    In this early development we want to reveal the potential this platform could hold, where in the future it could a community for learning and creating different crafts and handmade products.
                 </Typography>
                 <Box
             sx={{
